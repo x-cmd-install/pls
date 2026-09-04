@@ -1,11 +1,13 @@
 about:
-  description: pls is a prettier and powerful ls(1) for the pros.
+  description:
+  |
+    pls is a prettier and powerful ls(1) for the pros.
   license: GPL-3.0
   homepage: https://pls.cli.rs/
   head: 82e8475
   archived: false
   latestVersion: v7.0.0-beta.1
-  collectedAt: 2026-09-04T05:01:51Z
+  collectedAt: 2026-09-04T19:56:17Z
 timeline:
   created: 2022-02-01
   lastCommit: 2026-08-23
@@ -16,7 +18,7 @@ popularity:
   fork: 32
   release: 14
   contributor: 9
-  pullRequest: 47
+  pullRequest: 88
   issue: 55
 language:
   Rust: 232151
@@ -25,7 +27,7 @@ language:
   Just: 1666
   JavaScript: 1060
   Ruby: 753
-totalLine: 240917
+totalBytes: 240917
 recent:
   last30d:
     since: 2026-08-05
@@ -35,6 +37,14 @@ recent:
     closedIssue: 0
     openIssue: 0
     commit: 1
+  last60d:
+    since: 2026-07-06
+    release: 0
+    mergedPR: 1
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 57
   last90d:
     since: 2026-06-06
     release: 1
@@ -59,3 +69,21 @@ recent:
     closedIssue: 2
     openIssue: 3
     commit: 173
+  last720d:
+    since: 2024-09-14
+    release: 7
+    mergedPR: 21
+    openPR: 1
+    closedIssue: 4
+    openIssue: 8
+    commit: 245
+total:
+  release: 14
+  mergedPR: 41
+  openPR: 1
+  closedIssue: 41
+  openIssue: 14
+  commit: 545
+---
+---
+
