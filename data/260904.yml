@@ -7,7 +7,7 @@ about:
   head: 82e8475
   archived: false
   latestVersion: v7.0.0-beta.1
-  collectedAt: 2026-09-04T19:56:17Z
+  collectedAt: 2026-09-04T20:49:34Z
 timeline:
   created: 2022-02-01
   lastCommit: 2026-08-23
@@ -85,5 +85,73 @@ total:
   openIssue: 14
   commit: 545
 ---
+path: /home/runner/.x-repo/github.com/pls-rs/pls
+collectedAt: 2026-09-04T20:49:35Z
+loc:
+  Yaml:
+    code: 5206
+    comments: 11
+    blanks: 1310
+    files: 15
+  Rust:
+    code: 5143
+    comments: 305
+    blanks: 767
+    files: 73
+  Python:
+    code: 609
+    comments: 2
+    blanks: 128
+    files: 17
+  Toml:
+    code: 216
+    comments: 14
+    blanks: 30
+    files: 4
+  TypeScript:
+    code: 179
+    comments: 25
+    blanks: 10
+    files: 3
+  Css:
+    code: 125
+    comments: 4
+    blanks: 23
+    files: 6
+  Sh:
+    code: 82
+    comments: 10
+    blanks: 17
+    files: 2
+  Json:
+    code: 47
+    comments: 0
+    blanks: 2
+    files: 3
+  Ruby:
+    code: 29
+    comments: 2
+    blanks: 3
+    files: 1
+  Svg:
+    code: 26
+    comments: 0
+    blanks: 0
+    files: 2
+  JavaScript:
+    code: 13
+    comments: 7
+    blanks: 6
+    files: 1
+  Markdown:
+    code: 0
+    comments: 16
+    blanks: 5
+    files: 1
+total:
+  code: 11675
+  comments: 1630
+  blanks: 2640
+  files: 128
 ---
 
