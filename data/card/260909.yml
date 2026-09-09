@@ -7,7 +7,7 @@ about:
   latestVersion: "v7.0.0-beta.1"
   latestRelease: ""
   latestPrerelease: "v7.0.0-beta.1"
-  collectedAt: 2026-09-09T06:13:08Z
+  collectedAt: 2026-09-09T20:37:08Z
 timeline:
   created: 2022-02-01
   lastCommit: 2026-08-23
@@ -38,7 +38,7 @@ recent:
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 1
+    commit: 0
   last60d:
     since: 2026-07-11
     release: 0
@@ -46,7 +46,7 @@ recent:
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 6
+    commit: 0
   last90d:
     since: 2026-06-11
     release: 1
@@ -54,7 +54,7 @@ recent:
     openPR: 0
     closedIssue: 1
     openIssue: 0
-    commit: 112
+    commit: 0
   last180d:
     since: 2026-03-13
     release: 5
@@ -62,7 +62,7 @@ recent:
     openPR: 0
     closedIssue: 1
     openIssue: 1
-    commit: 161
+    commit: 0
   last360d:
     since: 2025-09-14
     release: 5
@@ -70,7 +70,7 @@ recent:
     openPR: 0
     closedIssue: 2
     openIssue: 3
-    commit: 173
+    commit: 0
   last720d:
     since: 2024-09-19
     release: 7
@@ -88,7 +88,7 @@ total:
   commit: 545
 ---
 path: /home/runner/.x-repo/github.com/pls-rs/pls
-collectedAt: 2026-09-09T06:13:09Z
+collectedAt: 2026-09-09T20:37:10Z
 loc:
   Yaml:
     code: 5206
