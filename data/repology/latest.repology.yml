@@ -1,0 +1,98 @@
+- repo: nix_stable_25_11
+  srcname: pls
+  visiblename: pls
+  version: 0.0.1-beta9
+  origversion: 0.0.1-beta.9
+  status: outdated
+  summary: Prettier and powerful ls
+  maintainers:
+    - tomasajt@github
+  licenses:
+    - GPL-3.0-or-later
+- repo: aur
+  srcname: pls
+  binname: pls
+  visiblename: pls
+  version: 6.0.0
+  origversion: 6.0.0-1
+  status: newest
+  summary: Prettier `ls` for the pros
+  maintainers:
+    - lorenzolomartire@aur
+  licenses:
+    - GPL3
+- repo: aur
+  srcname: pls-git
+  binname: pls-git
+  visiblename: pls-git
+  version: 0.0.1.beta.9.r5.gf6517cd
+  origversion: 0.0.1.beta.9.r5.gf6517cd-1
+  status: rolling
+  summary: Prettier `ls` for the pros (git)
+  maintainers:
+    - orhun@aur
+  licenses:
+    - MIT
+- repo: gnuguix
+  srcname: pls
+  binname: pls
+  visiblename: pls
+  version: "0.905"
+  origversion: null
+  status: outdated
+  summary: Perl language server
+- repo: nix_stable_24_05
+  srcname: pls
+  visiblename: pls
+  version: 0.0.1-beta6
+  origversion: 0.0.1-beta.6
+  status: outdated
+  summary: Prettier and powerful ls
+  maintainers:
+    - tomasajt@github
+  licenses:
+    - GPL-3.0-or-later
+- repo: nix_stable_24_11
+  srcname: pls
+  visiblename: pls
+  version: 0.0.1-beta8
+  origversion: 0.0.1-beta.8
+  status: outdated
+  summary: Prettier and powerful ls
+  maintainers:
+    - tomasajt@github
+  licenses:
+    - GPL-3.0-or-later
+- repo: nix_stable_25_05
+  srcname: pls
+  visiblename: pls
+  version: 0.0.1-beta9
+  origversion: 0.0.1-beta.9
+  status: outdated
+  summary: Prettier and powerful ls
+  maintainers:
+    - tomasajt@github
+  licenses:
+    - GPL-3.0-or-later
+- repo: nix_stable_26_05
+  srcname: pls
+  visiblename: pls
+  version: 0.0.1-beta9
+  origversion: 0.0.1-beta.9
+  status: outdated
+  summary: Prettier and powerful ls
+  maintainers:
+    - tomasajt@github
+  licenses:
+    - GPL-3.0-or-later
+- repo: nix_unstable
+  srcname: pls
+  visiblename: pls
+  version: 0.0.1-beta10
+  origversion: 0.0.1-beta.10
+  status: outdated
+  summary: Prettier and powerful ls
+  maintainers:
+    - tomasajt@github
+  licenses:
+    - GPL-3.0-or-later
