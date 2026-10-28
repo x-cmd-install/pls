@@ -14,11 +14,11 @@ x install pls
 
 ## Code insight
 
-Total: **11,675** lines of code across **112** files in the top 5 languages.
+Total: **11,882** lines of code across **112** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Yaml | 5,206 | 11 | 1,310 | 15 |
+| Yaml | 5,413 | 11 | 1,372 | 15 |
 | Rust | 5,143 | 305 | 767 | 73 |
 | Python | 609 | 2 | 128 | 17 |
 | Toml | 216 | 14 | 30 | 4 |
@@ -33,7 +33,7 @@ Total: **11,675** lines of code across **112** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v7.0.0-beta.1`
-- **Last commit**: 2026-08-23
+- **Last commit**: 2026-10-27
 
 ## Popularity
 
@@ -41,18 +41,18 @@ Total: **11,675** lines of code across **112** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 14 · **Merged PRs**: 41 · **Open PRs**: 2 · **Closed issues**: 41 · **Open issues**: 14 · **Commits**: 545
+- **Releases**: 14 · **Merged PRs**: 43 · **Open PRs**: 1 · **Closed issues**: 41 · **Open issues**: 14 · **Commits**: 547
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-27 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-28 | 0 | 0 | 1 | 0 | 0 | 0 |
-| 90d | 2026-07-29 | 0 | 0 | 1 | 0 | 0 | 1 |
-| last180d | 2026-04-30 | 5 | 7 | 1 | 1 | 1 | 153 |
-| 360d | 2025-11-01 | 5 | 17 | 1 | 2 | 2 | 173 |
-| last720d | 2024-11-06 | 5 | 18 | 2 | 2 | 5 | 218 |
+| 30d | 2026-09-28 | 0 | 2 | 0 | 0 | 0 | 2 |
+| last60d | 2026-08-29 | 0 | 2 | 0 | 0 | 0 | 2 |
+| 90d | 2026-07-30 | 0 | 2 | 0 | 0 | 0 | 3 |
+| last180d | 2026-05-01 | 5 | 9 | 0 | 1 | 1 | 155 |
+| 360d | 2025-11-02 | 5 | 19 | 0 | 2 | 2 | 175 |
+| last720d | 2024-11-07 | 5 | 20 | 1 | 2 | 5 | 218 |
 
 ## Distribution status
 
@@ -71,4 +71,4 @@ Install metadata for pls lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261027.yml` · 2026-10-27T06:27:36Z._
+_Snapshot: `data/card/261028.yml` · 2026-10-28T06:54:27Z._
