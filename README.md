@@ -33,26 +33,26 @@ Total: **11,882** lines of code across **112** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v7.0.0-beta.1`
-- **Last commit**: 2026-10-27
+- **Last commit**: 2026-11-01
 
 ## Popularity
 
-- **Stars**: 968 · **Forks**: 35 · **Open issues**: 55 · **Contributors**: 9
+- **Stars**: 968 · **Forks**: 35 · **Open issues**: 56 · **Contributors**: 9
 
 ## Totals (cumulative)
 
-- **Releases**: 14 · **Merged PRs**: 43 · **Open PRs**: 1 · **Closed issues**: 41 · **Open issues**: 14 · **Commits**: 547
+- **Releases**: 14 · **Merged PRs**: 43 · **Open PRs**: 1 · **Closed issues**: 42 · **Open issues**: 14 · **Commits**: 548
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 0 | 2 | 0 | 0 | 0 | 2 |
-| last60d | 2026-09-02 | 0 | 2 | 0 | 0 | 0 | 2 |
-| 90d | 2026-08-03 | 0 | 2 | 0 | 0 | 0 | 3 |
-| last180d | 2026-05-05 | 5 | 9 | 0 | 1 | 1 | 155 |
-| 360d | 2025-11-06 | 5 | 19 | 0 | 2 | 2 | 175 |
-| last720d | 2024-11-11 | 5 | 20 | 1 | 2 | 5 | 218 |
+| 30d | 2026-10-03 | 0 | 2 | 0 | 1 | 0 | 3 |
+| last60d | 2026-09-03 | 0 | 2 | 0 | 1 | 0 | 3 |
+| 90d | 2026-08-04 | 0 | 2 | 0 | 1 | 0 | 4 |
+| last180d | 2026-05-06 | 5 | 9 | 0 | 2 | 1 | 156 |
+| 360d | 2025-11-07 | 5 | 19 | 0 | 3 | 2 | 176 |
+| last720d | 2024-11-12 | 5 | 20 | 1 | 3 | 5 | 219 |
 
 ## Distribution status
 
@@ -71,4 +71,4 @@ Install metadata for pls lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T07:26:28Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T07:35:43Z._
