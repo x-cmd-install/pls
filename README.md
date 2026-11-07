@@ -14,12 +14,12 @@ x install pls
 
 ## Code insight
 
-Total: **11,882** lines of code across **112** files in the top 5 languages.
+Total: **11,884** lines of code across **112** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Yaml | 5,413 | 11 | 1,372 | 15 |
-| Rust | 5,143 | 305 | 767 | 73 |
+| Rust | 5,145 | 307 | 767 | 73 |
 | Python | 609 | 2 | 128 | 17 |
 | Toml | 216 | 14 | 30 | 4 |
 | TypeScript | 179 | 25 | 10 | 3 |
@@ -33,7 +33,7 @@ Total: **11,882** lines of code across **112** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v7.0.0-beta.1`
-- **Last commit**: 2026-11-01
+- **Last commit**: 2026-11-07
 
 ## Popularity
 
@@ -41,18 +41,18 @@ Total: **11,882** lines of code across **112** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 14 · **Merged PRs**: 43 · **Open PRs**: 2 · **Closed issues**: 42 · **Open issues**: 14 · **Commits**: 548
+- **Releases**: 14 · **Merged PRs**: 44 · **Open PRs**: 1 · **Closed issues**: 42 · **Open issues**: 14 · **Commits**: 549
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 0 | 2 | 1 | 1 | 0 | 3 |
-| last60d | 2026-09-07 | 0 | 2 | 1 | 1 | 0 | 3 |
-| 90d | 2026-08-08 | 0 | 2 | 1 | 1 | 0 | 4 |
-| last180d | 2026-05-10 | 5 | 9 | 1 | 2 | 1 | 156 |
-| 360d | 2025-11-11 | 5 | 19 | 1 | 3 | 2 | 176 |
-| last720d | 2024-11-16 | 5 | 20 | 2 | 3 | 5 | 219 |
+| 30d | 2026-10-08 | 0 | 3 | 0 | 1 | 0 | 4 |
+| last60d | 2026-09-08 | 0 | 3 | 0 | 1 | 0 | 4 |
+| 90d | 2026-08-09 | 0 | 3 | 0 | 1 | 0 | 5 |
+| last180d | 2026-05-11 | 5 | 10 | 0 | 2 | 1 | 157 |
+| 360d | 2025-11-12 | 5 | 20 | 0 | 3 | 2 | 177 |
+| last720d | 2024-11-17 | 5 | 21 | 1 | 3 | 5 | 220 |
 
 ## Distribution status
 
@@ -71,4 +71,4 @@ Install metadata for pls lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T08:03:09Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T07:24:11Z._
